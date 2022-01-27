@@ -1,2 +1,2 @@
 # learning-about-version-control
-{{Ryan Peng}}
+**Ryan Peng**
